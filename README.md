@@ -1,1 +1,1 @@
-# --Stanford-CS224N
+# Stanford-CS224N
