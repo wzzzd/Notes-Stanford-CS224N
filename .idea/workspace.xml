@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe28dc8b-a370-4323-9f8a-76a77f3148a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Notes-Stanford-CS224N.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/Lecture2/0A48FE0E-0E82-4AA9-AEA0-5162569A8F45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/Lecture2/110DEEC9-B127-4BF7-9343-5850027B645C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/Lecture2/371DD99A-4F9E-4525-91BF-8B1E82903BBA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/Lecture2/432B3696-1C32-498E-92C0-64E2D18A4A76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/Lecture2/7442489D-EE0F-4E22-9A7D-7974EC931516.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/Lecture2/7F3D627A-3FD6-4F12-82C2-A7F7B79E1799.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/Lecture2/B01FDC2A-BCA4-4EF4-A8E9-6EAEB82507D6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/Lecture2/B432A763-ABE9-4C60-B313-8D9C59F770F8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/Lecture2/C5994C2E-AF0C-4A81-999C-57BADF30B31C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/Lecture2/EF9BFE49-81F2-46D3-BE72-80C37C6611AB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/Lecture2/F8ABFC46-4D05-4BAF-B3F9-6C5F5D681464.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture2-word_vector2_and_word_senses.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture2-word_vector2_and_word_senses.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YsRv5uDNNTsmYInk05puarjphT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe28dc8b-a370-4323-9f8a-76a77f3148a8" name="Default Changelist" comment="" />
+      <created>1583729542577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583729542577</updated>
+      <workItem from="1583729549173" duration="1947000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1583757070493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583757070493</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1973" y="334" key="CommitChangelistDialog2" timestamp="1583757070343">
+      <screen x="1440" y="23" width="3440" height="1417" />
+    </state>
+    <state x="1973" y="334" key="CommitChangelistDialog2/47.23.1393.877/1440.23.3440.1417@1440.23.3440.1417" timestamp="1583757070343" />
+    <state x="2043" y="471" key="Vcs.Push.Dialog.v2" timestamp="1583757082291">
+      <screen x="1440" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2043" y="471" key="Vcs.Push.Dialog.v2/47.23.1393.877/1440.23.3440.1417@1440.23.3440.1417" timestamp="1583757082291" />
+  </component>
+</project>
